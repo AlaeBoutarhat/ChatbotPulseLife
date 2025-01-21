@@ -32,7 +32,7 @@ Voici les membres de l'équipe ayant travaillé sur le projet :
    A_Propos/Requirements
 
 
-..image:: /images/photo1.jpg
+
       
 
 
